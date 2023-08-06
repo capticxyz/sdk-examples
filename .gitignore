@@ -1,0 +1,7 @@
+**/tsconfig.*.json
+**/tsconfig.json
+**/project.json
+**/jest.config.ts
+**/.eslintrc.json
+**/readme.md
+**/.DS_Store

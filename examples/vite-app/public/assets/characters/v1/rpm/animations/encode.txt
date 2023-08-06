@@ -1,0 +1,1 @@
+gltfpack -mm  -tq 10 -cc -af 5 -at 16 -ar 12 -as 1 -tc -i readyplayerAnimations_v0.0.2.glb -o readyplayerAnimations_v0.0.2_opt.glb -vv 

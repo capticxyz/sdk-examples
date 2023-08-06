@@ -1,0 +1,1 @@
+gltfpack -mm -si 0.75 -sa -tq 10 -cc -af 1 -tc -i 6343dea787e1dcfdcb87c4b9.glb -o 6343dea787e1dcfdcb87c4b9_opt.glb -vv 
